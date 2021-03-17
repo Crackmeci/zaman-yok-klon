@@ -1,0 +1,18 @@
+C:\Users\cesur\AppData\Local\Temporary Projects\ZamanYok -Klon\bin\Debug\ZamanYok -Klon.exe
+C:\Users\cesur\AppData\Local\Temporary Projects\ZamanYok -Klon\bin\Debug\ZamanYok -Klon.pdb
+C:\Users\cesur\AppData\Local\Temporary Projects\ZamanYok -Klon\bin\Debug\ZamanYok -Klon.xml
+C:\Users\cesur\AppData\Local\Temporary Projects\ZamanYok -Klon\obj\x86\Debug\ZamanYok__Klon.Form1.resources
+C:\Users\cesur\AppData\Local\Temporary Projects\ZamanYok -Klon\obj\x86\Debug\ZamanYok__Klon.Resources.resources
+C:\Users\cesur\AppData\Local\Temporary Projects\ZamanYok -Klon\obj\x86\Debug\ZamanYok -Klon.vbproj.GenerateResource.Cache
+C:\Users\cesur\AppData\Local\Temporary Projects\ZamanYok -Klon\obj\x86\Debug\ZamanYok -Klon.exe
+C:\Users\cesur\AppData\Local\Temporary Projects\ZamanYok -Klon\obj\x86\Debug\ZamanYok -Klon.xml
+C:\Users\cesur\AppData\Local\Temporary Projects\ZamanYok -Klon\obj\x86\Debug\ZamanYok -Klon.pdb
+C:\Users\cesur\onedrive\belgeler\visual studio 2010\Projects\ZamanYok -Klon\ZamanYok -Klon\obj\x86\Debug\ZamanYok -Klon.exe
+C:\Users\cesur\onedrive\belgeler\visual studio 2010\Projects\ZamanYok -Klon\ZamanYok -Klon\obj\x86\Debug\ZamanYok -Klon.xml
+C:\Users\cesur\onedrive\belgeler\visual studio 2010\Projects\ZamanYok -Klon\ZamanYok -Klon\obj\x86\Debug\ZamanYok -Klon.pdb
+C:\Users\cesur\onedrive\belgeler\visual studio 2010\Projects\ZamanYok -Klon\ZamanYok -Klon\bin\Debug\ZamanYok -Klon.exe
+C:\Users\cesur\onedrive\belgeler\visual studio 2010\Projects\ZamanYok -Klon\ZamanYok -Klon\bin\Debug\ZamanYok -Klon.pdb
+C:\Users\cesur\onedrive\belgeler\visual studio 2010\Projects\ZamanYok -Klon\ZamanYok -Klon\bin\Debug\ZamanYok -Klon.xml
+C:\Users\cesur\onedrive\belgeler\visual studio 2010\Projects\ZamanYok -Klon\ZamanYok -Klon\obj\x86\Debug\ZamanYok__Klon.Resources.resources
+C:\Users\cesur\onedrive\belgeler\visual studio 2010\Projects\ZamanYok -Klon\ZamanYok -Klon\obj\x86\Debug\ZamanYok -Klon.vbproj.GenerateResource.Cache
+C:\Users\cesur\onedrive\belgeler\visual studio 2010\Projects\ZamanYok -Klon\ZamanYok -Klon\obj\x86\Debug\ZamanYok__Klon.Form1.resources

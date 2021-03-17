@@ -1,0 +1,9 @@
+C:\Users\cesur\OneDrive\Belgeler\Visual Studio 2010\Projects\ZamanYok -Klon\ZamanYok -Klon\bin\Release\ZamanYok -Klon.exe
+C:\Users\cesur\OneDrive\Belgeler\Visual Studio 2010\Projects\ZamanYok -Klon\ZamanYok -Klon\bin\Release\ZamanYok -Klon.pdb
+C:\Users\cesur\OneDrive\Belgeler\Visual Studio 2010\Projects\ZamanYok -Klon\ZamanYok -Klon\bin\Release\ZamanYok -Klon.xml
+C:\Users\cesur\OneDrive\Belgeler\Visual Studio 2010\Projects\ZamanYok -Klon\ZamanYok -Klon\obj\x86\Release\ZamanYok__Klon.Form1.resources
+C:\Users\cesur\OneDrive\Belgeler\Visual Studio 2010\Projects\ZamanYok -Klon\ZamanYok -Klon\obj\x86\Release\ZamanYok__Klon.Resources.resources
+C:\Users\cesur\OneDrive\Belgeler\Visual Studio 2010\Projects\ZamanYok -Klon\ZamanYok -Klon\obj\x86\Release\ZamanYok -Klon.vbproj.GenerateResource.Cache
+C:\Users\cesur\OneDrive\Belgeler\Visual Studio 2010\Projects\ZamanYok -Klon\ZamanYok -Klon\obj\x86\Release\ZamanYok -Klon.exe
+C:\Users\cesur\OneDrive\Belgeler\Visual Studio 2010\Projects\ZamanYok -Klon\ZamanYok -Klon\obj\x86\Release\ZamanYok -Klon.xml
+C:\Users\cesur\OneDrive\Belgeler\Visual Studio 2010\Projects\ZamanYok -Klon\ZamanYok -Klon\obj\x86\Release\ZamanYok -Klon.pdb
